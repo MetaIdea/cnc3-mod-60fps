@@ -32,3 +32,5 @@ mod tab and select the mod. Click Launch Game.
 
 
 ModDB: https://www.moddb.com/games/cc-kanes-wrath/downloads/60-fps-no-superweapon-option-box-mod
+
+Note: This repo won't get any more updates since a new project with a engine altering approach is on the horizon: https://github.com/MetaIdea/SageMetaTool
